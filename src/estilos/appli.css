@@ -1,0 +1,19 @@
+.caja{
+    width: 1000px;
+    height: 700px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: 50px auto;
+    padding: 30px;
+    overflow: auto;
+}
+
+.botonico{
+    margin: 5px 0px;
+    border-radius: 2500px;
+}
+
+.botonico2{
+    margin: 5px;
+    border-radius: 2500px;
+}
